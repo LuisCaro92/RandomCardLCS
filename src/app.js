@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 let numero = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "J", "Q", "K"];
-let icono = ["\u2660", "\u2663", "\u2666", "\u2665"];
+let icono = ["\u2666", "\u2665", "\u2660", "\u2663"];
 
 function randomcard(numero, icono) {
   let icono1random = document.getElementById("icono1").innerHTML;
